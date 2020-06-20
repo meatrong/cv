@@ -1,0 +1,67 @@
+﻿生成启动时间为 2020/6/12 9:53:55。
+     1>项目“D:\mr\VSProjects\vision_ex\vision_ex\vision_ex.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\vision_ex.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         F:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt debug.cpp main.cpp match.cpp randomadjust.cpp resize.cpp sift_detect.cpp stitching.cpp
+         resize.cpp
+         randomadjust.cpp
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(19): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\randomadjust.cpp(39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+         match.cpp
+     1>d:\mr\vsprojects\vision_ex\vision_ex\match.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+         main.cpp
+         debug.cpp
+     1>d:\mr\vsprojects\vision_ex\vision_ex\debug.cpp(291): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\debug.cpp(291): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\debug.cpp(381): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\debug.cpp(381): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+         正在生成代码...
+         正在编译...
+         stitching.cpp
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(53): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(77): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(78): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(79): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+     1>d:\mr\vsprojects\vision_ex\vision_ex\stitching.cpp(145): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+         sift_detect.cpp
+         正在生成代码...
+       Link:
+         F:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\mr\VSProjects\vision_ex\Debug\vision_ex.exe" /NOLOGO opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib opencv_nonfree2410.lib opencv_objdetect2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_videostab2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\vision_ex.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\mr\VSProjects\vision_ex\Debug\vision_ex.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\mr\VSProjects\vision_ex\Debug\vision_ex.lib" /MACHINE:X86 Debug\main.obj
+         Debug\debug.obj
+         Debug\stitching.obj
+         Debug\match.obj
+         Debug\onMouseCorrect.obj
+         Debug\randomadjust.obj
+         Debug\resize.obj
+         Debug\sift_detect.obj
+         vision_ex.vcxproj -> D:\mr\VSProjects\vision_ex\Debug\vision_ex.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\mr\VSProjects\vision_ex\Debug\vision_ex.exe;#1" /manifest Debug\vision_ex.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\vision_ex.unsuccessfulbuild”。
+         正在对“Debug\vision_ex.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\mr\VSProjects\vision_ex\vision_ex\vision_ex.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:14.05
